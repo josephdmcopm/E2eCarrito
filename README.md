@@ -14,4 +14,4 @@ Instrucciones para ejecutar los test
 Información adicional
 -El programa chromedriver.exe se adjunta en la ruta del proyecto.
 
-Referencia: https://github.com/josephdmcopm/tienda_qa_karate
+Referencia: https://github.com/josephdmcopm/E2eCarrito
